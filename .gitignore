@@ -75,6 +75,3 @@ DerivedDataCache/*
 
 # Packaged project
 PackageOutput/*
-
-# Temporary!
-Content/Geometry/*
