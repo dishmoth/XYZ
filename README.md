@@ -4,6 +4,6 @@
 
 Play on Windows: [itch.io](https://dishmoth.itch.io/xyz)
 
-Homepage: [dishmoth.com](http://dishmoth.com/)
+Homepage: [dishmoth.com](http://dishmoth.com/games/xyz/)
 
 Built with [Unreal Engine 4.27](https://www.unrealengine.com/). Code is all Blueprints, so [Git LFS](https://git-lfs.github.com/) is used for most of the files.
